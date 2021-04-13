@@ -1,0 +1,38 @@
+.dbg_nav
+{
+    height: 80px;
+}
+.dbg_header
+{
+    height: 300px;
+}
+
+.dbg_section-1
+{
+    height: 300px;
+}
+.dbg_section-2
+{
+    height: 200px;
+}
+.dbg_section-3
+{
+    height: 300px;
+}
+
+h1
+{
+    text-align: center;
+}
+.dbg_img
+{
+    height: 100px;
+}
+.dbg_footer_top
+{
+    height: 150px;
+}
+.dbg_footer_down
+{
+    height: 80px;
+}
