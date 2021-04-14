@@ -37,3 +37,12 @@ hr
     display: inline-block;
     vertical-align: middle;
 }
+
+.bg_title
+{
+    color: #333333;
+}
+.bg_line
+{
+    background-color: #2C3E50;
+}
