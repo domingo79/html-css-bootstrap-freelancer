@@ -1,31 +1,39 @@
 /* ID for COLOR PALET */
 /* NAV  bg*/
-#bg_nav_site
-{
-    background-color: #2C3E50;
+#bg_nav_site {
+  background-color: #2c3e50;
 }
 /* HEADER bg  */
-#bg_header_site
-{
-    background-color: #1ABC9C;
+#bg_header_site {
+  background-color: #1abc9c;
 }
 /* MAIN bg per sezione  */
 /* bg portfolio 1 of 3 & bg contact-me 3 of 3 sez main */
-#bg_portfolio_site, #bg_contact_me_site
-{
-    background-color: #FFF;
+#bg_portfolio_site,
+#bg_contact_me_site {
+  background-color: #fff;
 }
 /* bg about 2 of 3 sez main */
-#bg_about_site
-{
-    background-color: #1ABC9C;
+#bg_about_site {
+  background-color: #1abc9c;
 }
 /* FOOTER bg  */
-#bg_footer_top_site
-{ 
-    background-color: #3A546D;
+#bg_footer_top_site {
+  background-color: #3a546d;
 }
-#bg_footer_down_site
-{ 
-    background-color: #2C3E50;
+#bg_footer_down_site {
+  background-color: #2c3e50;
+}
+
+/* header  */
+#bg_header_site img {
+  height: 200px;
+}
+hr
+{
+    margin: 0 20px;
+    width: 100px;
+    height: 2px;
+    display: inline-block;
+    vertical-align: middle;
 }
